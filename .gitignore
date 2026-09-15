@@ -11,3 +11,4 @@ desktop.ini
 
 # Local utility scripts
 *.bat
+push_*.ps1
