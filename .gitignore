@@ -1,0 +1,13 @@
+# System & IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# OneDrive temporary sync files
+~$*
+*.tmp.driveupload
+
+# Local utility scripts
+*.bat
